@@ -1,0 +1,621 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"url"
+			],
+			[
+				"re",
+				"recipeTitle"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"im",
+				"imagesLoaded"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"Ran",
+				"randomColor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/browser_action/browser_action.html",
+			"settings":
+			{
+				"buffer_size": 710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/browser_action/main.ctrl.js",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/inject/inject.js",
+			"settings":
+			{
+				"buffer_size": 1925,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/background/background.js",
+			"settings":
+			{
+				"buffer_size": 881,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"safe",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"Safe",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"",
+				"Package Control: Grab CA Certs"
+			],
+			[
+				"set apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"SAfe",
+				"StringEncode: Safe HTML Entitize"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/src/browser_action/app.js",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/src/browser_action/browser_action.js",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/src/inject/inject.css",
+		"/Users/melliot1/Downloads/ext/src/browser_action/browser_action.html",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/src/browser_action/main.ctrl.js",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/src/browser_action/browser_action.html",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/js/angular/main.ctrl.js",
+		"/Users/melliot1/Sites/personal/pp-recipe-scraping-ext/js/angular/app.js",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/js/src/main.js",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_section1.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_section2.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_parallax.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_hero.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_styles.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_nav.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/js/libs/sticky-nav.js",
+		"/Users/melliot1/Sites/Samsung/lp-milk-apps/src/assets/scss/_noskrollr.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-video/src/assets/scss/_animate.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-video/src/assets/scss/_placeholders.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-video/src/assets/scss/_styleguide.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_sticky.scss",
+		"/Users/melliot1/Sites/Samsung/lp-milk-video/src/assets/scss/_styleguide",
+		"/Users/melliot1/Sites/Samsung/lp-milk-video/src/assets/js/src/volt-app.js",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/js/libs/sticky-nav.js",
+		"/Users/melliot1/Sites/samsung/volt/src/assets/scss/_section2mobile.scss",
+		"/Users/melliot1/Sites/samsung/volt/src/assets/scss/_social.scss",
+		"/Users/melliot1/Sites/samsung/volt/src/assets/scss/_section3.scss",
+		"/Users/melliot1/Sites/samsung/volt/src/assets/scss/_section1.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section2mobile.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section3.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/js/src/volt-app.js",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_animate.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section1.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section2.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_social.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_nav.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section4.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/index.html",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_section2mobile",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_animate_extends.scss",
+		"/Users/melliot1/Sites/Samsung/volt/.scss-lint.yml",
+		"/Users/melliot1/Sites/Samsung/volt/target/assets/css/main.css",
+		"/Users/melliot1/Sites/Samsung/11-7-gear-s-landing/target/assets/css/main.css",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_mixins.scss",
+		"/Users/melliot1/Sites/Samsung/volt/src/assets/scss/_sdesktop",
+		"/Users/melliot1/Sites/Samsung/volt/Gruntfile.js",
+		"/Users/melliot1/Sites/Samsung/volt/Gemfile.lock",
+		"/Users/melliot1/Sites/samsung/t-prereg/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/t-prereg/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/t-prereg/src/assets/scss/_styles",
+		"/Users/melliot1/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/melliot1/Sites/Samsung/dads-grads/src/assets/scss/_tablet",
+		"/Users/melliot1/Sites/Samsung/dads-grads/src/assets/js/libs/masonry.pkgd.js",
+		"/Users/melliot1/Sites/Samsung/corporate-citizenship/src/assets/scss/_mission.scss",
+		"/Users/melliot1/Sites/Samsung/corporate-citizenship/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/testing/src/assets/js/libs/jquery.nouislider.min.js",
+		"/Users/melliot1/Sites/Samsung/testing/src/assets/scss/main.scss",
+		"/Users/melliot1/Sites/Samsung/testing/src/assets/js/src/main.js",
+		"/Users/melliot1/Sites/Samsung/testing/src/index.html",
+		"/Users/melliot1/Sites/Samsung/testing/Project.sublime-project",
+		"/Users/melliot1/Sites/Samsung/testing/target/assets/css/main.css",
+		"/Users/melliot1/Sites/Samsung/testing/node_modules/grunt-scss-lint/.scss-lint.yml",
+		"/Users/melliot1/Sites/Samsung/testing/.scss-lint.yml",
+		"/etc/apache2/httpd.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/Parallax Test/css/style.css",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/Parallax Test/index.html",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/parallax/index.html",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/parallax/css/main.css",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/Simple Parallax Scrolling/js/_main.js",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/Simple Parallax Scrolling/css/main.css",
+		"/Users/melliot1/Desktop/sandbox/Parallax Scrolling/Simple Parallax Scrolling/index.html",
+		"/Users/melliot1/Downloads/html5-boilerplate-4.3.0/index.html",
+		"/Users/melliot1/Desktop/sandbox/parallax/index.html",
+		"/Users/melliot1/Desktop/sandbox/Bootstrap/mybootstrap01/untitled",
+		"/Users/melliot1/Desktop/index.html",
+		"/Users/melliot1/Desktop/sandbox/Bootstrap/bootstrap3tutorial/doc.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/shareaholic/assets/css/main.css",
+		"/Users/melliot1/Desktop/foundation-5.2.2/index.html",
+		"/Users/melliot1/Desktop/foundation-5.2.2/css/foundation.css",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/galaxy/gear-fit.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/galaxy/gear-2.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/galaxy/gear-2-neo.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/includes/data-devices.php",
+		"/Users/melliot1/.hgrc",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/etc/apache2/extra/httpd-vhost.conf",
+		"/Users/melliot1/Desktop/Simple Simon/Part 2/simpleSimon.js",
+		"/Users/melliot1/Desktop/Simple Simon/simon.js",
+		"/Users/melliot1/Downloads/index.html",
+		"/Users/melliot1/Desktop/Simple Simon/Part 5/simpleSimon.js",
+		"/Users/melliot1/Desktop/Simple Simon/Part 6/simpleSimon.js",
+		"/Users/melliot1/Desktop/Simple Simon/Part 1/simpleSimon.js",
+		"/Users/melliot1/Desktop/Simple Simon/Part 3/simpleSimon.js",
+		"/Users/melliot1/Desktop/Simple Simon/Part 4/simpleSimon.js",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/scss/styles.scss",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/includes/supplier-availability.js",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/includes/supplier-availability.js",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/scss/styles.scss",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxySp-website/src/galaxy/note-pro.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/includes/data-devices.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/note-pro.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/note-2014.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/tablets.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/tab-pro.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/note.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/tab-2.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/camera.php",
+		"/Users/melliot1/Desktop/MM_JAVASCRIPT2E/chapter01/hello2.html",
+		"/Users/melliot1/Desktop/MM_JAVASCRIPT2E/chapter01/hello.html",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/device/19/index.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/index.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/scripts.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/note-3.php",
+		"/Users/melliot1/Sites/Samsung/GuideGalaxy-website/src/galaxy/mary-e.php",
+		"/private/etc/php.ini",
+		"/etc/php-fpm.conf.default",
+		"/etc/php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heroHeight",
+			"a href",
+			"mj-panel-wrap",
+			"small-copyright",
+			"navTop",
+			"copy",
+			"play",
+			"/assets",
+			"zoom",
+			"animated",
+			"/assets",
+			"opacity",
+			"zoom",
+			"current",
+			"roll-",
+			"rollInRight",
+			"width",
+			"roll",
+			"down",
+			"mj-nav-link",
+			"mj-nav",
+			"mj-nav-wrap",
+			"mj-panel-wrap",
+			"mj-nav",
+			"mj-nav-wrap",
+			"volt",
+			"49",
+			"56.25",
+			"54",
+			"top",
+			"56",
+			"54%",
+			"content",
+			"container",
+			"mobile",
+			"placeholder",
+			"fit",
+			"placeholder",
+			"three",
+			"gear",
+			"place",
+			"gear",
+			"laptop",
+			"quote-wrap",
+			"inner-content",
+			"z-index",
+			"slider",
+			"range",
+			"currentFrame",
+			"col",
+			"34",
+			"appendChild",
+			"Include",
+			"row",
+			"btn",
+			"hero-unit",
+			"hero",
+			"navbar",
+			"nav",
+			"fluid",
+			"Reply",
+			"footer",
+			"article",
+			"widget",
+			"footer",
+			"service-facebook",
+			"footer",
+			"img",
+			"lato",
+			"footer",
+			"fear-fit",
+			"Gear-2",
+			"#",
+			"Footer",
+			"article",
+			"cat",
+			"5245b611e4b06d234bd9856d",
+			"524b4eb2e4b06d234bdd47fd",
+			"524b56cbe4b06a1958b42267",
+			"7d2",
+			"524b556be4b07f8460dae775",
+			"524b5525e4b07f8460dae718",
+			"524b54e6e4b07f8460dae65f",
+			"524b5487e4b06d234bdd4d9d",
+			"524b57fbe4b01b5bca0a3277",
+			"39",
+			"524b57b5e4b01b5bca0a31a2",
+			"524b5754e4b06a1958b42321",
+			"524b570be4b06a1958b422c4",
+			"S (Mem",
+			"Switched Live",
+			"http://stgwwwus.samsung",
+			"note-pro",
+			"english",
+			"vayas",
+			"aq",
+			"white",
+			"buy-now-supplier-btn-",
+			"note-pro",
+			".buy-now-supplier-btn",
+			"abt",
+			"note-pro",
+			"tab-3",
+			"tab-pro",
+			"note-pro",
+			"#device-accessories ul.accessories li.note-pro-accessory-1",
+			"note-pro",
+			"#features-techspecs .features-tab .note-pro-feature-3",
+			"tab-pro",
+			"note-pro",
+			"tab-pro",
+			"note-pro",
+			"abt",
+			"note-pro",
+			"glow",
+			"433",
+			"glow",
+			"#category-subnav .nav-thumbs .note-pro",
+			"glow",
+			"#222222",
+			":hover",
+			".hover",
+			" .glow",
+			"#category-subnav.tab-3 .glow",
+			"#category-subnav.note-ii .glow",
+			"#compare-module #compare-view",
+			"tab-3",
+			"#compare-module #compare-view ul li.col .features"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Published Live",
+			"http://originus.samsung"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/browser_action/browser_action.html",
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/browser_action/main.ctrl.js",
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/inject/inject.js",
+					"settings":
+					{
+						"buffer_size": 1925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/background/background.js",
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}

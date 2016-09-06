@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Recipe Extension Popup</title>
+    <link rel="stylesheet" type="text/css" href="browser_action.css">
+</head>
+
+<body ng-app="app" ng-csp="" ng-controller="MainController">
+	
+  <div id="main">
+    <form class="form">
+      <input id="recipe-title" type="text" ng-model="recipeTitle" placeholder="{{recipeTitle}}" />
+      <ul class="ingredients">
+        <li ng-repeat="item in ingredients">
+          <button type="button" ng-click="removeIngredient($index)">X</button>
+          <input id="recipe-ingredients" type="text" ng-model="item" placeholder="{{item}}" />
+        </li>
+      </ul>
+      <button type="button" ng-click="setIngredients()">Add Ingredients</button>
+      <button type="button" ng-click="clearIngredients()">Clear Ingredients</button>
+      <ul class="instructions">
+        <li ng-repeat="step in instructions">
+          <textarea id="recipe-instructions" type="text" ng-model="step" placeholder="Instructions">{{instructions}}</textarea>
+        </li>
+      </ul>
+      <button type="button" ng-click="setInstructions()">Add Instructions</button>
+      <button type="button" ng-click="clearInstructions()">Clear Instructions</button>
+    </form>
+  </div>
+
+  <script src="angular.js"></script>
+  <script src="app.js"></script>
+  <script src="main.ctrl.js"></script>
+  <script src="browser_action.js"></script>
+</body>
+
+</html>
